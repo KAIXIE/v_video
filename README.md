@@ -1,11 +1,12 @@
 # v_video
 a rtmp player with vue.js and videojs
 
-##install 
+#please allow chrome to run the flash extention!!!
+## install 
 ```
 npm install v_video --save-dev
 ```
-#usage
+## usage
 ```
 import rtmp from 'v_video'
 
